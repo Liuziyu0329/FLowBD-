@@ -1,0 +1,16 @@
+# 设置默认行为为自动规范化换行符
+* text=auto
+
+# 明确声明你想要规范化并在签出时转换为LF的文本文件
+*.c text
+*.h text
+
+# 声明在签出时总是使用CRLF换行符的文件
+*.bat text eol=crlf
+
+# 声明在签出时总是使用LF换行符的文件
+*.sh text eol=lf
+
+# 指定所有真正的二进制文件，不应被修改
+*.png binary
+*.jpg binary
