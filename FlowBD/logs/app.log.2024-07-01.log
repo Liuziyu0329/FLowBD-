@@ -1,0 +1,6 @@
+2024-07-01 15:30:38,903 - llama_index.core.chat_engine.condense_question - INFO - Querying with: 我现在想针对铁铬液流电池的电解液进行优化，你可以给我详细的说明和步骤以及思路么，reply in english 
+2024-07-01 15:30:59,574 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-07-01 15:31:12,652 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-07-01 15:32:43,092 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-07-01 15:32:43,093 - llama_index.core.chat_engine.condense_question - INFO - Querying with: How should I approach the optimization of the electrolyte solution for iron-chromium (Fe-Cr) flow batteries, including both laboratory testing and practical implementation steps, to enhance their performance?
+2024-07-01 15:33:02,475 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"

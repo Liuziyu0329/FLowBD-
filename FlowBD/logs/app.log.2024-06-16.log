@@ -1,0 +1,13 @@
+2024-06-16 19:02:00,098 - llama_index.core.chat_engine.condense_question - INFO - Querying with: 液流电池的电解液性质怎么样？
+2024-06-16 19:02:19,987 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-06-16 19:02:35,101 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-06-16 19:03:10,484 - llama_index.core.chat_engine.condense_question - INFO - Querying with: 液流电池的电解液性质
+2024-06-16 19:05:25,886 - llama_index.core.chat_engine.condense_question - INFO - Querying with: tell me something about redox flow battery 
+2024-06-16 19:05:42,605 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-06-16 19:05:52,828 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-06-16 19:06:29,588 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-06-16 19:06:29,589 - llama_index.core.chat_engine.condense_question - INFO - Querying with:  What are the key parameters that characterize the electrolyte properties in iron-chromium redox flow batteries (RFBs), particularly in terms of their performance and stability within the battery system?
+2024-06-16 19:06:47,001 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-06-16 19:08:42,195 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
+2024-06-16 19:08:42,196 - llama_index.core.chat_engine.condense_question - INFO - Querying with:  Could you please provide a table summarizing the key parameters that characterize the electrolyte properties of iron-chromium redox flow batteries in English, including aspects like concentration levels, equivalent circuit parameters (such as charge transfer resistance and ohmic resistance), mass transfer coefficients, activation overpotential, Tafel slope, pH levels, and how these factors are influenced by temperature?
+2024-06-16 19:09:02,725 - httpx - INFO - HTTP Request: POST http://127.0.0.1:11434/api/chat "HTTP/1.1 200 OK"
